@@ -1,0 +1,15 @@
+h1 {background-color: blue;};
+/*checking links ok, it does*/
+
+#todayPlusOne {
+    background-color: aquamarine;
+}
+/*One above doesn't work, one below does!
+*/
+.col-lg-9 {
+    background-color: aquamarine;
+}
+
+#search-button {
+    margin-top: 5px;
+}
